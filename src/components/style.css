@@ -1,0 +1,65 @@
+.delete{
+  margin: 0px;
+}
+canvas{
+  box-sizing: border-box;
+  display: block;
+  height: 260px !important;
+  width: 311px !important;
+}
+.heading-input{
+  height: 82%;
+  position: relative;
+  width: 92%;
+  left: 3%;
+}
+.heading-input[text]{
+  font-size: 1vw;
+}
+.mt-6{
+  margin-top: 6px! important;
+}
+.w-15{
+  width: 15%;
+}
+.w-36{
+  width: 36%;
+}
+.w-12{
+  width: 12%;
+}
+.w-19{
+  width: 19%;
+}
+.w-28{
+  width: 28%;
+}
+.w-23{
+  width: 23%;
+}
+.w-11{
+  width: 11%;
+}
+.heading-text{
+  font-size: 3vw;
+}
+.dashboard-icon{
+  font-size: 25px;
+  float: right;
+  margin-left: 20px;
+}
+.text-black{
+  color: black;
+}
+body{
+  color: white;
+}
+#addnewsource{
+    cursor: pointer;
+  }
+.hidden{
+  display: none;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
