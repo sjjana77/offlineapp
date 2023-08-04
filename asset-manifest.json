@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/offlineapp/static/css/main.97ccbc92.css",
+    "main.js": "/offlineapp/static/js/main.d999017c.js",
+    "index.html": "/offlineapp/index.html",
+    "main.97ccbc92.css.map": "/offlineapp/static/css/main.97ccbc92.css.map",
+    "main.d999017c.js.map": "/offlineapp/static/js/main.d999017c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97ccbc92.css",
+    "static/js/main.d999017c.js"
+  ]
+}
